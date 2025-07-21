@@ -13,4 +13,21 @@ A simple Java-based **stock trading simulation platform** that allows users to b
 -  **OOP Design**: Organized around `User`, `Stock`, and `Trade` classes for clear structure.
 -  **Console-Based**: Lightweight and easy to run — no external libraries required.
 
+## Requirements
+
+To run this project, you need the following installed on your system:
+
+- Java Development Kit (JDK) 8 or above
+- A terminal/command prompt or any Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
+- No external libraries — uses only core Java
+
+---
+
+## How to Run
+
+### Option 1: Using Command Line
+
+1. **Clone or Download** the repository:
+   ```bash
+   git clone https://github.com/kishanrealkishor/CodeAlpha_Stock-Trading-Platform
 ---
