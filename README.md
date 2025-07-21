@@ -1,24 +1,16 @@
-Stock Trading Platform (Java Console App)
+# 📈 Stock Trading Platform (Java Console App)
 
-This is a simple Java-based stock trading simulation platform that allows users to buy and sell stocks, track their portfolio, and save/load progress using file I/O. Built with Object-Oriented Programming (OOP) principles, it's ideal for beginners learning Java, file handling, and basic market simulations.
-
+A simple Java-based **stock trading simulation platform** that allows users to buy and sell stocks, track their portfolio, and save/load progress using file I/O. Built using **Object-Oriented Programming (OOP)** principles, this console-based application is ideal for beginners learning Java, file handling, and basic stock market simulations.
 
 ---
 
-Features
+## 🚀 Features
 
-View available market stocks and their prices
-
-Buy and sell stocks using virtual cash
-
-Track portfolio performance and total value
-
-Save and load portfolio data to/from a file
-
-Uses OOP concepts: User, Stock, and trading logic
-
-Console-based interface — no external dependencies
-
-
+- 📊 **View Market Stocks**: Display a list of available stocks with their current prices.
+- 💰 **Buy & Sell Stocks**: Trade stocks using virtual cash.
+- 📈 **Track Portfolio**: View your stock holdings and total portfolio value.
+- 💾 **Save & Load**: Store portfolio data to a file and reload it later.
+- 🔁 **OOP Design**: Organized around `User`, `Stock`, and `Trade` classes for clear structure.
+- 💻 **Console-Based**: Lightweight and easy to run — no external libraries required.
 
 ---
